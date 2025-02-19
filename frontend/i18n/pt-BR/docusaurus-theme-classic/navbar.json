@@ -1,0 +1,34 @@
+{
+  "title": {
+    "message": "Open Multiplayer",
+    "description": "O título na barra de navegação"
+  },
+  "logo.alt": {
+    "message": "Logo do open.mp",
+    "description": "O texto alternativo do logo na barra de navegação"
+  },
+  "item.label.Docs": {
+    "message": "Documentação",
+    "description": "Item da barra de navegação com o rótulo 'Documentação'"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Item da barra de navegação com o rótulo 'Blog'"
+  },
+  "item.label.Forums": {
+    "message": "Fórum",
+    "description": "Item da barra de navegação com o rótulo 'Fórum'"
+  },
+  "item.label.Servers": {
+    "message": "Servidores",
+    "description": "Item da barra de navegação com o rótulo 'Servidores'"
+  },
+  "item.label.Partners": {
+    "message": "Parceiros",
+    "description": "Item da barra de navegação com o rótulo 'Parceiros'"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Item da barra de navegação com o rótulo 'GitHub'"
+  }
+}

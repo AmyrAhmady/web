@@ -1,0 +1,46 @@
+{
+  "version.label": {
+    "message": "Próximo",
+    "description": "O rótulo para a versão atual"
+  },
+  "sidebar.docsSidebar.category.Scripting": {
+    "message": "Scripting",
+    "description": "O rótulo para a categoria Scripting na barra lateral docsSidebar"
+  },
+  "sidebar.docsSidebar.category.Callbacks": {
+    "message": "Callbacks",
+    "description": "O rótulo para a categoria Callbacks na barra lateral docsSidebar"
+  },
+  "sidebar.docsSidebar.category.Functions": {
+    "message": "Funções",
+    "description": "O rótulo para a categoria Funções na barra lateral docsSidebar"
+  },
+  "sidebar.docsSidebar.category.Language": {
+    "message": "Linguagem",
+    "description": "O rótulo para a categoria Linguagem na barra lateral docsSidebar"
+  },
+  "sidebar.docsSidebar.category.Reference": {
+    "message": "Referência",
+    "description": "O rótulo para a categoria Referência na barra lateral docsSidebar"
+  },
+  "sidebar.docsSidebar.category.Resources": {
+    "message": "Recursos",
+    "description": "O rótulo para a categoria Recursos na barra lateral docsSidebar"
+  },
+  "sidebar.docsSidebar.category.Server": {
+    "message": "Servidor",
+    "description": "O rótulo para a categoria Servidor na barra lateral docsSidebar"
+  },
+  "sidebar.docsSidebar.category.Client": {
+    "message": "Cliente",
+    "description": "O rótulo para a categoria Cliente na barra lateral docsSidebar"
+  },
+  "sidebar.docsSidebar.category.Tutorials": {
+    "message": "Tutoriais",
+    "description": "O rótulo para a categoria Tutoriais na barra lateral docsSidebar"
+  },
+  "sidebar.docsSidebar.category.meta": {
+    "message": "meta",
+    "description": "O rótulo para a categoria meta na barra lateral docsSidebar"
+  }
+}
