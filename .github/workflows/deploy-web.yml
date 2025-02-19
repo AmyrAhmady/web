@@ -11,4 +11,8 @@ jobs:
     runs-on: macos-latest
     steps:
       - uses: actions/checkout@v3
-      - run: docker build -t southclaws/openmp-frontend -f Dockerfile.frontend .
+      - name: build?
+        run: |
+          cd frontend
+          npm i
+          npm run build
