@@ -1,0 +1,62 @@
+{
+  "link.title.Documentations": {
+    "message": "Documentação",
+    "description": "O título da coluna de links do rodapé com título=Documentação"
+  },
+  "link.title.Community": {
+    "message": "Comunidade",
+    "description": "O título da coluna de links do rodapé com título=Comunidade"
+  },
+  "link.title.More": {
+    "message": "Mais",
+    "description": "O título da coluna de links do rodapé com título=Mais"
+  },
+  "link.item.label.Introduction": {
+    "message": "Introdução",
+    "description": "O rótulo do link no rodapé com rótulo=Introdução, redirecionando para a documentação"
+  },
+  "link.item.label.open.mp Migration": {
+    "message": "Migração para open.mp",
+    "description": "O rótulo do link no rodapé com rótulo=Migração para open.mp, redirecionando para a documentação"
+  },
+  "link.item.label.config.json": {
+    "message": "config.json",
+    "description": "O rótulo do link no rodapé com rótulo=config.json, redirecionando para docs/server/config.json"
+  },
+  "link.item.label.Discord": {
+    "message": "Discord",
+    "description": "O rótulo do link no rodapé com rótulo=Discord, redirecionando para https://discord.gg/samp"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "O rótulo do link no rodapé com rótulo=GitHub, redirecionando para https://github.com/openmultiplayer/open.mp"
+  },
+  "link.item.label.YouTube": {
+    "message": "YouTube",
+    "description": "O rótulo do link no rodapé com rótulo=YouTube, redirecionando para https://youtube.com/openmultiplayer"
+  },
+  "link.item.label.X": {
+    "message": "X",
+    "description": "O rótulo do link no rodapé com rótulo=X, redirecionando para https://x.com/openmultiplayer"
+  },
+  "link.item.label.Servers": {
+    "message": "Servidores",
+    "description": "O rótulo do link no rodapé com rótulo=Servidores, redirecionando para /servers"
+  },
+  "link.item.label.Blog": {
+    "message": "Blog",
+    "description": "O rótulo do link no rodapé com rótulo=Blog, redirecionando para /blog"
+  },
+  "link.item.label.SA-MP": {
+    "message": "SA-MP",
+    "description": "O rótulo do link no rodapé com rótulo=SA-MP, redirecionando para https://sa-mp.mp/"
+  },
+  "copyright": {
+  "message": "Copyright © open.mp, Inc. Criado com Docusaurus.",
+  "description": "O texto de direitos autorais no rodapé"
+},
+  "logo.alt": {
+    "message": "Logo do open.mp",
+    "description": "O texto alternativo do logo no rodapé"
+  }
+}
